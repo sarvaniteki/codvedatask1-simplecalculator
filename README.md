@@ -1,1 +1,1 @@
-# codvedatask1-simplecalculator
+# codvedaintershiptasks
